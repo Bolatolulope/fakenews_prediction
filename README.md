@@ -26,13 +26,16 @@ git config --global user.name " your prefer name"
 git config --global user.email "your email"
 
 add file to github
+1. change directory to fakenews_prediction
+   cd fakenes_prediction
+2. git add . (to push all the files to github)
 
 git add fakenews_prediction (to add fakenews_prediction changes)
 git add . (to add all files)
 git status (to check your status)
 
 commit
-git commit -m "Thiss commit includes requirement.txt and readme file
+git commit -m "This commit includes requirement.txt and readme file"
 
 
 
