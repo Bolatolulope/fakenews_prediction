@@ -1,0 +1,10 @@
+Flask
+sklearn
+pandas
+nltk 
+xgboost
+wordcloud
+scikit-learn
+numpy
+matplotlib
+
